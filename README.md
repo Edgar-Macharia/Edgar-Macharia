@@ -15,9 +15,9 @@ In addition to my technical skills, I have gained hands-on expertise in Bootstra
   <img  align="left" src = "https://github-readme-streak-stats.herokuapp.com/?user=EdMash00&theme=gotham">
 </a>
 <br/>
+<br/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=EdMash00&theme=radical&show_icons=true" alt="Github Stats"/>
-<br/>
 
 ![Edgar's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=EdgarMacharia&theme=gotham&layout=compact)
 <br/>
