@@ -1,4 +1,4 @@
-# Hi there, I Am Edgar! 👋
+# Hi there, I'm Edgar! 👋
 
 <a href="" target="_blank"><img src="" alt="image host"/></a>
 # Bio 
