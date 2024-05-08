@@ -12,12 +12,12 @@ In addition to my technical skills, I have gained hands-on expertise in Bootstra
 
 
 <a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=EdgarMacharia&count_private=true&show_icons=true&theme=cobalt">
-  <img  align="left" src = "https://github-readme-streak-stats.herokuapp.com/?user=EdMash00&theme=gotham">
+  <img  align="left" src = "https://github-readme-streak-stats.herokuapp.com/?user=Edgar-Macharia&theme=gotham">
 </a>
 <br/>
-<br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=EdMash00&theme=radical&show_icons=true" alt="Github Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Edgar-Macharia&theme=radical&show_icons=true" alt="Github Stats"/>
+<br/>
 
 ![Edgar's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=EdgarMacharia&theme=gotham&layout=compact)
 <br/>
