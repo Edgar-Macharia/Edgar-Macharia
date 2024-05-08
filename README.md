@@ -13,6 +13,7 @@ In addition to my technical skills, I have gained hands-on expertise in Bootstra
 
 <a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=EdgarMacharia&count_private=true&show_icons=true&theme=cobalt">
   <img  align="left" src = "https://github-readme-streak-stats.herokuapp.com/?user=Edgar-Macharia&theme=gotham">
+  <br/>
 </a>
 <br/>
 
