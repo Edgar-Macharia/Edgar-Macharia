@@ -1,10 +1,8 @@
 # Hi there, I'm Edgar! 👋
 
-<a href="" target="_blank"><img src="" alt="image host"/></a>
-# Bio 
 
 I'm a full-stack software developer with experience in designing, developing, and implementing applications and solutions using a range of technologies and programming languages. I have expertise in both front-end and back-end development, with proficiency in JavaScript, JSON, ReactJS, Node.js, Express, SQL, MongoDB, Ruby on Rails and other relevant tools.
-In addition to my technical skills, I have gained hands-on expertise in Bootstrap, TailwindCSS, Express, and similar back-end Node.js. I am passionate about keeping up-to-date with the latest industry-adopted technologies and frameworks, and I enjoy working in an agile environment to build reusable code, libraries, and tools that enable rapid prototyping and delivery of features across multiple projects.
+In addition to my technical skills, I have gained hands-on expertise in Bootstrap, TailwindCSS, and similar back-end Node.js. I am passionate about keeping up-to-date with the latest industry-adopted technologies and frameworks, and I enjoy working in an agile environment to build reusable code, libraries, and tools that enable rapid prototyping and delivery of features across multiple projects.
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=EdgarMacharia)
 
@@ -20,6 +18,7 @@ In addition to my technical skills, I have gained hands-on expertise in Bootstra
 </a>
 
 <br>  <br/>
+
 
 <p align="center"><img width="70%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Edgar-Macharia&theme=algolia" alt="edgarmacharia" /></p>
 
