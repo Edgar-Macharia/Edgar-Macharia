@@ -8,6 +8,9 @@ In addition to my technical skills, I have gained hands-on expertise in Bootstra
 
 ## Github Stats
 
+<p align="center"><img width="70%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Edgar-Macharia&theme=algolia" alt="edgarmacharia" /></p>
+
+
 
 <img  src="https://github-readme-stats.vercel.app/api?username=Edgar-Macharia&theme=radical&show_icons=true" alt="Github Stats"/>
 
@@ -17,11 +20,7 @@ In addition to my technical skills, I have gained hands-on expertise in Bootstra
   <img  align="left" src = "https://github-readme-streak-stats.herokuapp.com/?user=Edgar-Macharia&theme=gotham">
 </a>
 
-<br>  <br/>
-
-
-<p align="center"><img width="70%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Edgar-Macharia&theme=algolia" alt="edgarmacharia" /></p>
-
+<br>
 <br/>
 
 ![Edgar's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=EdgarMacharia&theme=gotham&layout=compact)
