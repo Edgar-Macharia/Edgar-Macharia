@@ -1,7 +1,7 @@
 # Hi there, I'm Edgar! 👋
 
 
-I'm a full-stack software developer with experience in designing, developing, and implementing applications and solutions using a range of technologies and programming languages. I have expertise in both front-end and back-end development, with proficiency in JavaScript, JSON, ReactJS, Node.js, Express, SQL, MongoDB, Ruby on Rails and other relevant tools.
+I'm a full-stack software developer with experience in designing, developing, and implementing applications and solutions using a range of technologies and programming languages. I have expertise in both front-end and back-end development, with proficiency in JavaScript, ReactJS, Node.js, Express, SQL, MongoDB, Ruby on Rails and other relevant tools.
 In addition to my technical skills, I have gained hands-on expertise in Bootstrap, TailwindCSS, and similar back-end Node.js. I am passionate about keeping up-to-date with the latest industry-adopted technologies and frameworks, and I enjoy working in an agile environment to build reusable code, libraries, and tools that enable rapid prototyping and delivery of features across multiple projects.
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=EdgarMacharia)
@@ -39,9 +39,7 @@ In addition to my technical skills, I have gained hands-on expertise in Bootstra
 <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" align="left"/>
 <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" align="left"/>
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" align="left"/>
-<img src="https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=%23FFFFFF" align="left"/>
-
-
+<img src="https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=%23FFFFFF" align="left"/> <br/>
 
 ### Back-End Languages
 <img src = "https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white" align = "left"/> <br/>
